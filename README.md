@@ -12,13 +12,14 @@ SwiftUi Practice Project
 5. State: State is a property wrapper that allows you to store and manage values that can change over time. When a state value changes, SwiftUI automatically updates the user interface to reflect the new value.
 
 
+6. Simple Tab Bar
 
 
 
+![Simulator Screen Shot - iPhone 14 Pro - 2023-03-05 at 14 58 09](https://user-images.githubusercontent.com/39146326/222964918-c610b080-3785-451d-abfe-afd5c018a695.png)
 
+![Simulator Screen Shot - iPhone 14 Pro - 2023-03-05 at 14 58 16](https://user-images.githubusercontent.com/39146326/222964930-132dae9a-3818-4473-83d7-609e30c90726.png)
 
+![Simulator Screen Shot - iPhone 14 Pro - 2023-03-05 at 14 58 22](https://user-images.githubusercontent.com/39146326/222964933-0b039209-c097-40d7-aaa6-864581cd4f67.png)
 
-
-
-
-
+![Simulator Screen Shot - iPhone 14 Pro - 2023-03-05 at 14 58 26](https://user-images.githubusercontent.com/39146326/222964944-52c10d76-b512-4387-8602-e8d9903ac17f.png)
